@@ -1,0 +1,24 @@
+body{
+    font-family: 'Open Sans', sans-serif; /*FUENTE*/
+    max-width: 900px; /* alt + shift + a --Ancho maximo * /
+    margin: 0 auto; / * Margen */
+}
+
+nav{
+    width: 100%; /*Ancho*/
+    height: 160px; /*Alto*/
+    background-color: rgb(228, 182, 182); /*Color de fondo*/
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    transition: 0.82 all;
+    padding: 20px 20px;
+
+}
+
+img{
+
+    margin-top: 200px;
+}
